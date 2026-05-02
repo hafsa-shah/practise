@@ -1,5 +1,5 @@
-resource "azurerm_resource_name" "name098" {
-    name = "tipy9"
-    location = "east us"
+resource "azurerm_resource_name" "name090" {
+    name = "line4"
+    location = "west us"
   
 }
